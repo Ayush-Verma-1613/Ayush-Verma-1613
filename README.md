@@ -41,9 +41,18 @@ const ayush = {
         tools:     ["Git", "GitHub", "Postman", "VS Code"]
     },
     currentFocus: "Next.js • TypeScript • System Design",
+    mindset:      "Open to learning ANY new technology — adaptable & flexible 🚀",
     funFact:      "I turn ☕ into clean, scalable code"
 };
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20OPEN%20TO%20LEARNING%20NEW%20TECH-A855F7?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20FLEXIBLE%20%26%20ADAPTABLE-EC4899?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20FAST%20LEARNER-FACC15?style=for-the-badge&labelColor=000000" />
+</p>
+
+> 💡 **I'm always open to learning new technologies and frameworks. Whether it's a new language, library, or tool — I adapt quickly, pick it up fast, and integrate it into my workflow. Flexibility and curiosity are my superpowers.**
 
 <br clear="right"/>
 
